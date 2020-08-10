@@ -28,6 +28,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [How to accept a pull request from Github on your R package](https://www.youtube.com/watch?v=xoeTOhjM8Pw)
+- [London Crime Map   Errors and all!](https://www.youtube.com/watch?v=yK1_Ne34BE0)
+- [London Crime Analysis   Errors and all!](https://www.youtube.com/watch?v=bgsr5EzdPmQ)
+- [How to create an R package using usethis, sinew, pkgdown and goodpractice](https://www.youtube.com/watch?v=wf7YFIQnD-g)
+- [Making International Development Data Not Useless   EARL London 2017 Talk](https://www.youtube.com/watch?v=fScQW_8tBlo)
 <!-- YOUTUBE:END -->
 
 ---
