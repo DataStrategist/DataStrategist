@@ -1,6 +1,6 @@
 ### Hi there, I'm [Amit](https://amitkohli.com/) 👋
 
-## I'm a bicultural environmental engineer turned data director and data science educator. I use [R] (https://www.r-project.org/) for most things, sometimes even for statistics.
+## I'm a bicultural environmental engineer turned data director and data science educator. I use R for most things, sometimes even correctly! I believe in diversity and have spent my entire 20+ year career working to improve this world or the lives of the people that live in it.
 
 - 🔭 I’m currently working on finishing my infinite list of unfinished packages!
 - 🌱 I’m currently learning Baysian inference
