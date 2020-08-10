@@ -1,14 +1,14 @@
 ### Hi there, I'm [Amit](https://amitkohli.com/) 👋
 
-## I'm a bicultural environmental engineer turned data director and data science educator. I use R for most things, sometimes even correctly! I believe in diversity and have spent my entire 20+ year career working to improve this world or the lives of the people that live in it.
+## I'm a bicultural environmental engineer turned data director and data science educator and speaker. I use R for most things, sometimes even correctly! I believe in diversity and have spent my entire 20+ year career working to improve this world or the lives of the people that live in it.
 
 - 🔭 I’m currently working on finishing my infinite list of unfinished packages!
 - 🌱 I’m currently learning Baysian inference
 - 👯 I’m looking to collaborate on COVID-19 or #BlackLivesMatter initiatives. Contact me, [I'm willing to volunteer](https://amitkohli.com/consulting)!
 - 💬 Ask me about United Nations, International Development, NGOs, charities, teaching and anything R!
-- 📫 How to reach me: [my consulting site](https://amitkohli.com/consulting)
+- 📫 How to reach me: amit.kohli.consulting@gmail.com
 - 😄 Pronouns: He
-- ⚡ Fun fact: I live in a small flat with a balcony, but I'm still composting my food waste and growing ~70 tomatos ATM, 6 types of chilli and a bunch of other stuff!
+- ⚡ Fun fact: I live in a small flat with a balcony, but I'm still composting my food waste and growing ~70 tomatos, 6 types of chilli and a bunch of other stuff!
 
 ### Connect with me:
 
@@ -20,15 +20,15 @@
 
 ---
 
-### 📺 Latest YouTube Videos
-<!-- YOUTUBE:START -->
-<!-- YOUTUBE:END -->
-
----
-
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+
+---
+
+### 📺 Latest YouTube Videos
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
 
 ---
 
