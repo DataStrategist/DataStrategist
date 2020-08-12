@@ -22,6 +22,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to create an R package, easy mode](https://www.amitkohli.com/2020/01/07/2020-01-07-how-to-create-an-r-package-my-way/)
+- [Is there more violent crime in my hood than in the rest of London?](https://www.amitkohli.com/2018/09/23/2018-07-07-crime-statistics-in-london/)
+- [Introducing the Monitoring and Evaluation Bullet Chart](https://www.amitkohli.com/introducing-the-monitoring-and-evaluation-bullet-chart/)
+- [Setting up twitter streamR Service on an Ubuntu server](https://www.amitkohli.com/setting-up-twitter-streamr-service-on-an-ubuntu-server/)
+- [Announcing ShinyTester – a package that helps you build Shiny apps](https://www.amitkohli.com/announcing-shinytester-a-package-that-helps-you-build-shiny-apps/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
