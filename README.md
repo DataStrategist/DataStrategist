@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning Baysian inference
 - 👯 I’m looking to collaborate on COVID-19 or #BlackLivesMatter initiatives. Contact me, [I'm willing to volunteer](https://amitkohli.com/consulting)!
 - 💬 Ask me about United Nations, International Development, NGOs, charities, teaching and anything R!
-- 📫 How to reach me: amit.kohli.consulting@gmail.com
+- 📫 How to reach me: data@amitkohli.com or see other social networks below.
 - 😄 Pronouns: He
 - ⚡ Fun fact: I live in a small flat with a balcony, but I'm still composting my food waste and growing ~70 tomatos, 6 types of chilli and a bunch of other stuff!
 
