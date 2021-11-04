@@ -45,6 +45,6 @@
 <!--<img align="left" alt="Amit's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=datastrategist&show_icons=true&hide_border=true" />-->
 
 [website]: https://amitkohli.com/consulting
-[twitter]: https://twitter.com/vizmonkey
+[twitter]: https://twitter.com/_amitkohli_
 [youtube]: https://www.youtube.com/channel/UCtOLYc3TXNNDp2iTWCM8Wvw
 [linkedin]: https://linkedin.com/in/akohli
