@@ -22,11 +22,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Interactive COVID map by LSOA](https://www.amitkohli.com/2020/11/08/2020-09-30-interactive-covid-map-by-lsoa/)
-- [How to create an R package, easy mode](https://www.amitkohli.com/2020/01/07/2020-01-07-how-to-create-an-r-package-my-way/)
-- [Is there more violent crime in my hood than in the rest of London?](https://www.amitkohli.com/2018/09/23/2018-07-07-crime-statistics-in-london/)
-- [Introducing the Monitoring and Evaluation Bullet Chart](https://www.amitkohli.com/introducing-the-monitoring-and-evaluation-bullet-chart/)
-- [Setting up twitter streamR Service on an Ubuntu server](https://www.amitkohli.com/setting-up-twitter-streamr-service-on-an-ubuntu-server/)
+- [10 reasons why Random Forest is the only algorithm you will need](https://www.amitkohli.com/2022/10/19/10-reasons-why-random-forest-is-the-only-algorithm-you-will-need/)
+- [How are SDG Indicators interconnected?](https://www.amitkohli.com/2022/07/20/how-are-sdg-indicators-interconnected/)
+- [Interactive COVID map by LSOA](https://www.amitkohli.com/2020/11/08/interactive-covid-map-by-lsoa/)
+- [How to create an R package, easy mode](https://www.amitkohli.com/2020/01/07/how-to-create-an-r-package-easy-mode/)
+- [Is there more violent crime in my hood than in the rest of London?](https://www.amitkohli.com/2018/09/23/crime-statistics-in-london/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
