@@ -22,7 +22,7 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [SDG Direction Estimation](https://www.amitkohli.com/2023/07/30/sdg-direction-estimation/)
+- [SDG Indicator Direction Estimation](https://www.amitkohli.com/2023/07/30/sdg-indicator-direction-estimation/)
 - [an R-user&#39;s guide to Python for data science](https://www.amitkohli.com/2023/03/15/an-r-user-s-guide-to-python-for-data-science/)
 - [10 reasons why Random Forest is the only algorithm you will need](https://www.amitkohli.com/2022/10/19/10-reasons-why-random-forest-is-the-only-algorithm-you-will-need/)
 - [How are SDG Indicators interconnected?](https://www.amitkohli.com/2022/07/20/how-are-sdg-indicators-interconnected/)
