@@ -22,11 +22,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [SDG Indicator Direction Estimation](https://www.amitkohli.com/2023/07/30/sdg-indicator-direction-estimation/)
-- [an R-user&#39;s guide to Python for data science](https://www.amitkohli.com/2023/03/15/an-r-user-s-guide-to-python-for-data-science/)
-- [10 reasons why Random Forest is the only algorithm you will need](https://www.amitkohli.com/2022/10/19/10-reasons-why-random-forest-is-the-only-algorithm-you-will-need/)
-- [How are SDG Indicators interconnected?](https://www.amitkohli.com/2022/07/20/how-are-sdg-indicators-interconnected/)
-- [Interactive COVID map by LSOA](https://www.amitkohli.com/2020/11/08/interactive-covid-map-by-lsoa/)
+- [Why Flat Classification Fails](https://www.amitkohli.com/series/why-flat-classification-fails/)
+- [Knowledge Graphs 101: Mapping 52 Weeks of Data Concepts](https://www.amitkohli.com/series/knowledge-graphs-101-mapping-52-weeks-of-data-concepts/)
+- [Every dataset is an argument you didn&#39;t write down](https://www.amitkohli.com/series/every-dataset-is-an-argument-you-didnt-write-down/)
+- [Why you can&#39;t answer next year&#39;s questions &lpar;disaggregated data&rpar;](https://www.amitkohli.com/series/why-you-cant-answer-next-years-questions-disaggregated-data/)
+- [How a &#39;quick Excel&#39; becomes a $500k data project that fails](https://www.amitkohli.com/series/how-a-quick-excel-becomes-a-500k-data-project-that-fails/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
