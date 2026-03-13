@@ -22,11 +22,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Prompting Foundations: how to talk to chatbots](https://www.amitkohli.com/talks/prompting-foundations-how-to-talk-to-chatbots/)
 - [Why Flat Classification Fails](https://www.amitkohli.com/series/why-flat-classification-fails/)
 - [Knowledge Graphs 101: Mapping 52 Weeks of Data Concepts](https://www.amitkohli.com/series/knowledge-graphs-101-mapping-52-weeks-of-data-concepts/)
 - [Every dataset is an argument you didn&#39;t write down](https://www.amitkohli.com/series/every-dataset-is-an-argument-you-didnt-write-down/)
 - [Why you can&#39;t answer next year&#39;s questions &lpar;disaggregated data&rpar;](https://www.amitkohli.com/series/why-you-cant-answer-next-years-questions-disaggregated-data/)
-- [How a &#39;quick Excel&#39; becomes a $500k data project that fails](https://www.amitkohli.com/series/how-a-quick-excel-becomes-a-500k-data-project-that-fails/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
