@@ -22,7 +22,7 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Before you build another AI agent, do this](https://www.amitkohli.com/series/before-you-build-another-ai-agent-do-this/)
+- [Before you build another AI agent, write a quality charter](https://www.amitkohli.com/series/before-you-build-another-ai-agent-write-a-quality-charter/)
 - [What does AI actually do to your organisation?](https://www.amitkohli.com/talks/what-does-ai-actually-do-to-your-organisation/)
 - [Prompting Foundations: how to talk to chatbots](https://www.amitkohli.com/talks/prompting-foundations-how-to-talk-to-chatbots/)
 - [Why Flat Classification Fails](https://www.amitkohli.com/series/why-flat-classification-fails/)
