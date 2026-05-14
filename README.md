@@ -22,11 +22,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Treat the AI like an employee](https://www.amitkohli.com/series/treat-the-ai-like-an-employee/)
 - [Your AI problems are not staff problems](https://www.amitkohli.com/series/your-ai-problems-are-not-staff-problems/)
 - [Report or Dashboard?](https://www.amitkohli.com/series/report-or-dashboard/)
 - [Before you build another AI agent, write a quality charter](https://www.amitkohli.com/series/before-you-build-another-ai-agent-write-a-quality-charter/)
 - [What does AI actually do to your organisation?](https://www.amitkohli.com/talks/what-does-ai-actually-do-to-your-organisation/)
-- [Prompting Foundations: how to talk to chatbots](https://www.amitkohli.com/talks/prompting-foundations-how-to-talk-to-chatbots/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
