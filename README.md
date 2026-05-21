@@ -15,6 +15,11 @@
 ### 📕 Latest Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [This is why your VLOOKUP isn&#39;t working](https://www.amitkohli.com/series/this-is-why-your-vlookup-isnt-working/)
+- [Treat the AI like an employee](https://www.amitkohli.com/series/treat-the-ai-like-an-employee/)
+- [Your AI problems are not staff problems](https://www.amitkohli.com/series/your-ai-problems-are-not-staff-problems/)
+- [Report or Dashboard?](https://www.amitkohli.com/series/report-or-dashboard/)
+- [Before you build another AI agent, write a quality charter](https://www.amitkohli.com/series/before-you-build-another-ai-agent-write-a-quality-charter/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
