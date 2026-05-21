@@ -2,8 +2,6 @@ name: Sync now.md into README
 
 on:
   workflow_dispatch:
-  # To trigger: update now.md in this repo, then run this workflow manually
-  # (or it will pick up on the next push that changes now.md via push trigger)
   push:
     paths:
       - 'now.md'
@@ -20,23 +18,7 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Inject now.md into README NOW section
-        run: |
-          cat > inject_now.py << 'PYEOF'
-import re
-
-now_content = open("now.md", encoding="utf-8").read().strip()
-readme = open("README.md", encoding="utf-8").read()
-new_block = "<!-- NOW:START -->\n" + now_content + "\n<!-- NOW:END -->"
-updated = re.sub(
-    r"<!-- NOW:START -->.*?<!-- NOW:END -->",
-    new_block,
-    readme,
-    flags=re.DOTALL,
-)
-open("README.md", "w", encoding="utf-8").write(updated)
-print("Done.")
-PYEOF
-          python3 inject_now.py
+        run: python3 inject_now.py
 
       - name: Commit and push if changed
         run: |
