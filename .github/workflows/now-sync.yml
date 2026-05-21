@@ -1,14 +1,16 @@
-name: Sync /now page to README
+name: Sync now.md into README
 
 on:
   workflow_dispatch:
-  schedule:
-    # Runs on the 1st of each month at 9am UTC
-    - cron: '0 9 1 * *'
+  # To trigger: update now.md in this repo, then run this workflow manually
+  # (or it will pick up on the next push that changes now.md via push trigger)
+  push:
+    paths:
+      - 'now.md'
 
 jobs:
   sync-now:
-    name: Update README with /now page content
+    name: Inject now.md content into README
     runs-on: ubuntu-latest
     permissions:
       contents: write
@@ -17,28 +19,14 @@ jobs:
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Fetch /now content
+      - name: Inject now.md into README NOW section
         run: |
-          curl -sf "https://raw.githubusercontent.com/DataStrategist/amitkohli.com/master/content/now/index.md" -o now_raw.md
-
-      - name: Process and inject /now content into README
-        run: |
-          cat > update_now.py << 'PYEOF'
+          cat > inject_now.py << 'PYEOF'
 import re
 
-raw = open("now_raw.md", encoding="utf-8").read()
-
-# Strip YAML frontmatter
-raw = re.sub(r"^---.*?---\s*", "", raw, flags=re.DOTALL).strip()
-
-# Convert root-relative links to absolute
-raw = re.sub(r"\]\(/", "](https://amitkohli.com/", raw)
-
-# Remove the nownownow.com footer line
-raw = re.sub(r"\n---\n\n\*This is a \[/now page\].*", "", raw).strip()
-
+now_content = open("now.md", encoding="utf-8").read().strip()
 readme = open("README.md", encoding="utf-8").read()
-new_block = "<!-- NOW:START -->\n" + raw + "\n<!-- NOW:END -->"
+new_block = "<!-- NOW:START -->\n" + now_content + "\n<!-- NOW:END -->"
 updated = re.sub(
     r"<!-- NOW:START -->.*?<!-- NOW:END -->",
     new_block,
@@ -48,7 +36,7 @@ updated = re.sub(
 open("README.md", "w", encoding="utf-8").write(updated)
 print("Done.")
 PYEOF
-          python3 update_now.py
+          python3 inject_now.py
 
       - name: Commit and push if changed
         run: |
