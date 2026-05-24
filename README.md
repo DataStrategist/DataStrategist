@@ -5,8 +5,8 @@
 ### Connect with me:
 
 [<img align="left" alt="My website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Youtube videos" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="My Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Youtube (main)" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="Data in the Real World" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube2]
 [<img align="left" alt="My LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <br />
 
@@ -71,6 +71,6 @@ Staying genuinely connected to people doing interesting work - former colleagues
 ---
 
 [website]: https://amitkohli.com
-[twitter]: https://twitter.com/_amitkohli_
 [youtube]: https://www.youtube.com/channel/UCtOLYc3TXNNDp2iTWCM8Wvw
+[youtube2]: https://www.youtube.com/@dataintherealworld
 [linkedin]: https://linkedin.com/in/akohli
