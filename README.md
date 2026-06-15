@@ -15,11 +15,11 @@
 ### 📕 Latest Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The problem with averages](https://www.amitkohli.com/series/the-problem-with-averages/)
 - [How do you know when you&#39;ve outgrown your tool?](https://www.amitkohli.com/series/how-do-you-know-when-youve-outgrown-your-tool/)
 - [How to know when your spreadsheet has outgrown Excel](https://www.amitkohli.com/series/how-to-know-when-your-spreadsheet-has-outgrown-excel/)
 - [This is why your VLOOKUP isn&#39;t working](https://www.amitkohli.com/series/this-is-why-your-vlookup-isnt-working/)
 - [Treat the AI like an employee](https://www.amitkohli.com/series/treat-the-ai-like-an-employee/)
-- [Your AI problems are not staff problems](https://www.amitkohli.com/series/your-ai-problems-are-not-staff-problems/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
