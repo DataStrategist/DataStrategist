@@ -15,11 +15,11 @@
 ### 📕 Latest Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [If you don&#39;t have a data dictionary, start here](https://www.amitkohli.com/series/if-you-dont-have-a-data-dictionary-start-here/)
 - [What are agents and skills for an agent?](https://www.amitkohli.com/series/what-are-agents-and-skills-for-an-agent/)
 - [Reporting is not insight](https://www.amitkohli.com/series/reporting-is-not-insight/)
 - [The problem with averages](https://www.amitkohli.com/series/the-problem-with-averages/)
 - [How do you know when you&#39;ve outgrown your tool?](https://www.amitkohli.com/series/how-do-you-know-when-youve-outgrown-your-tool/)
-- [How to know when your spreadsheet has outgrown Excel](https://www.amitkohli.com/series/how-to-know-when-your-spreadsheet-has-outgrown-excel/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
