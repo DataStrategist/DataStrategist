@@ -15,11 +15,11 @@
 ### 📕 Latest Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [There&#39;s no such thing as a quick question](https://www.amitkohli.com/series/theres-no-such-thing-as-a-quick-question/)
 - [01/02/2026 is two different days](https://www.amitkohli.com/series/01/02/2026-is-two-different-days/)
 - [Scaffolding for AI](https://www.amitkohli.com/series/scaffolding-for-ai/)
 - [If you don&#39;t have a data dictionary, start here](https://www.amitkohli.com/series/if-you-dont-have-a-data-dictionary-start-here/)
 - [What are agents and skills for an agent?](https://www.amitkohli.com/series/what-are-agents-and-skills-for-an-agent/)
-- [Reporting is not insight](https://www.amitkohli.com/series/reporting-is-not-insight/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
